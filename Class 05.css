@@ -1,0 +1,50 @@
+body, p, h3, #mahadih33 {
+    color:rgb(21, 23, 180) ;
+}
+
+/* p
+{   background-color: greenyellow;}
+h3
+{   background-color: greenyellow;}
+b
+{   background-color: greenyellow;} */
+/* body
+{  background-color: pink;} */
+
+
+/* HW01 */
+.body01
+{ background-color: black;}
+h2
+{   color: rgb(0, 0, 0);}
+.mahadis1{ text-align: center;
+        background-color: rgb(226, 226, 21);
+        border-width: 2px; color: rgb(255, 255, 255);
+        border-style: solid;
+        padding: 100px 50px;
+        margin: 300px 750px;
+
+}
+.mahadih1 {
+    padding: 0px 65px;
+}
+
+/* HW02 */
+.body02{background-color: rgb(0, 0, 0);}
+.mahadihh{
+    text-align: center;
+    background-color: aqua;
+    border-width: 4px; color: rgb(255, 255, 255);
+    border-style: solid;
+    padding: 50px 0px;
+    margin: 200px 750px;
+}
+div p{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    padding: 0px 0px 0px 105px;
+}
+
+
+.mahadih2{padding: 0px 60px;}
+.mahadih3{padding: 0px 20px;}
